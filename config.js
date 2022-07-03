@@ -12,25 +12,25 @@ global.APIKeys = {
 }
 
 // Other
-global.namabot = ['ArullBotzMD']
-global.namaowner = ['ArullOfc']
-global.owner = ['6285822347348']
-global.premium = ['6285822347348']
-global.packname = 'Sticker By'
-global.author = 'ArullOfc'
+global.namabot = ['RySys-Md']
+global.namaowner = ['Rayy']
+global.owner = ['6285888730976']
+global.premium = ['6285888730976']
+global.packname = '© RySys-Md'
+global.author = 'Rayy'
 global.sessionName = 'zxyn'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    success: 'udah nih',
+    admin: 'cuman admin yang bisa make ini bang/mbak',
+    botAdmin: 'jadiin bot sebagai admin dulu bang/mbak baru bisa make ini',
+    owner: 'cuman owner yang bisa make ini bang/mbak',
+    group: 'cuman bisa di grup bang/mbak',
+    private: 'cuman bisa di chat pribadi bang/mbak',
+    bot: 'sorry you are not bot user',
+    wait: 'sabar....',
+    endLimit: 'yahhh limit harian kamu udah habis nih, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
     premium: "Infinity",
